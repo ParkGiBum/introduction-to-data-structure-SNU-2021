@@ -1,0 +1,1361 @@
+initial setting:
+playingdeck: most right is card on the top
+
+playingdeck1:♥ 4	<==card on the top
+playingdeck2:♥ K	♠ A	<==card on the top
+playingdeck3:♥ 6	♥ 9	♥ 10	<==card on the top
+playingdeck4:♦ J	♠ J	♣ Q	♠ 8	<==card on the top
+playingdeck5:♣ 5	♠ 2	♦ A	♣ 3	♥ A	<==card on the top
+playingdeck6:♠ 7	♣ 6	♣ J	♥ 7	♣ 4	♦ 3	<==card on the top
+playingdeck7:♥ Q	♠ 9	♦ 8	♥ 8	♠ 4	♠ 3	♣ 7	<==card on the top
+-----------cards in the stock-----------------
+♦ 10	♦ 9	♦ 5	♣ 2	♣ 10	♠ Q	♠ K	
+♦ 4	♥ 3	♣ K	♠ 10	♥ 2	♦ 7	♥ J	
+♦ 6	♣ 8	♥ 5	♦ 2	♠ 5	♦ Q	♦ K	
+♠ 6	♣ 9	♣ A	<=card on the bottom
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:5 	d7:6
+o1:♥ 4	o2:♠ A	o3:♥ 10	o4:♠ 8	o5:♥ A	o6:♦ 3	o7:♣ 7	
+							
+SCORE: -52
+
+♥ A moved from playing#5 to playing#1
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:5 	d7:6
+o1:♥ 4	o2:♠ A	o3:♥ 10	o4:♠ 8	o5:♣ 3	o6:♦ 3	o7:♣ 7	
+							
+SCORE: -47
+
+♣ 3 moved from playing#5 to playing#1
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:2 	d6:5 	d7:6
+o1:♥ 4	o2:♠ A	o3:♥ 10	o4:♠ 8	o5:♦ A	o6:♦ 3	o7:♣ 7	
+o1:♣ 3							
+							
+SCORE: -47
+
+♦ A moved from playing#5 to playing#3
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:1 	d6:5 	d7:6
+o1:♥ 4	o2:♠ A	o3:♥ 10	o4:♠ 8	o5:♠ 2	o6:♦ 3	o7:♣ 7	
+o1:♣ 3							
+							
+SCORE: -42
+
+♠ 2 moved from playing#5 to playing#6
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♥ 4	o2:♠ A	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+o1:♣ 3					o6:♠ 2		
+							
+SCORE: -42
+
+♠ A moved from playing#2 to playing#4
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♥ 4	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+o1:♣ 3					o6:♠ 2		
+							
+SCORE: -37
+
+♥ 4 moved from playing#1 to playing#5
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4	o6:♠ 2		
+				o5:♣ 3			
+							
+SCORE: -37
+
+♠ 2 moved from playing#6 to playing#4
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4			
+				o5:♣ 3			
+							
+SCORE: -32
+
+STCK	23 WAST: 1 TC: ♦ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4			
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♦ 9
+STCK	22 WAST: 2 TC: ♦ 9 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4			
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♦ 5
+STCK	21 WAST: 3 TC: ♦ 5 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4			
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♣ 2
+♣ 2 moved from wastepile to playing#6
+
+STCK	20 WAST: 3 TC: ♦ 5 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+STCK	20 WAST: 3 TC: ♦ 5 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♣ 10
+STCK	19 WAST: 4 TC: ♣ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+				o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♠ Q
+♠ Q moved from wastepile to playing#2
+
+STCK	18 WAST: 4 TC: ♣ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+STCK	18 WAST: 4 TC: ♣ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♠ K
+♠ K moved from wastepile to playing#1
+
+STCK	17 WAST: 4 TC: ♣ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+STCK	17 WAST: 4 TC: ♣ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♦ 4
+STCK	16 WAST: 5 TC: ♦ 4 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♥ 3
+STCK	15 WAST: 6 TC: ♥ 3 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♣ K
+STCK	14 WAST: 7 TC: ♣ K |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♠ 10
+STCK	13 WAST: 8 TC: ♠ 10 |	 ♥: 1	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -32
+
+draw has happen:♥ 2
+♥ 2 moved from wastepile to playing#1
+
+STCK	12 WAST: 8 TC: ♠ 10 |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -27
+
+STCK	12 WAST: 8 TC: ♠ 10 |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q			o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -27
+
+draw has happen:♦ 7
+♦ 7 moved from wastepile to playing#4
+
+STCK	11 WAST: 8 TC: ♠ 10 |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -27
+
+STCK	11 WAST: 8 TC: ♠ 10 |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♥ 4	o6:♣ 2		
+				o5:♣ 3			
+							
+SCORE: -27
+
+draw has happen:♥ J
+♥ J moved from wastepile to playing#2
+
+STCK	10 WAST: 8 TC: ♠ 10 |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♥ 4	o6:♣ 2		
+	o2:♥ J			o5:♣ 3			
+							
+SCORE: -27
+
+♠ 10 moved from wastepile to playing#2
+
+STCK	10 WAST: 7 TC: ♣ K |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♥ 4	o6:♣ 2		
+	o2:♥ J			o5:♣ 3			
+	o2:♠ 10						
+							
+SCORE: -27
+
+STCK	10 WAST: 7 TC: ♣ K |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♥ 4	o6:♣ 2		
+	o2:♥ J			o5:♣ 3			
+	o2:♠ 10						
+							
+SCORE: -27
+
+draw has happen:♦ 6
+♦ 6 moved from wastepile to playing#7
+
+STCK	9 WAST: 7 TC: ♣ K |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ 5	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♥ 4	o6:♣ 2	o7:♦ 6	
+	o2:♥ J			o5:♣ 3			
+	o2:♠ 10						
+							
+SCORE: -27
+
+♣ 5 moved from playing#5 to playing#7
+
+STCK	9 WAST: 7 TC: ♣ K |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8		o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -27
+
+♣ K moved from wastepile to playing#5
+
+STCK	9 WAST: 6 TC: ♥ 3 |	 ♥: 2	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -27
+
+♥ 3 moved from wastepile to playing#1
+
+STCK	9 WAST: 5 TC: ♦ 4 |	 ♥: 3	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -22
+
+STCK	9 WAST: 5 TC: ♦ 4 |	 ♥: 3	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -22
+
+draw has happen:♣ 8
+STCK	8 WAST: 6 TC: ♣ 8 |	 ♥: 3	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -22
+
+draw has happen:♥ 5
+STCK	7 WAST: 7 TC: ♥ 5 |	 ♥: 3	 ♣: 0	 ♦: 1	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -22
+
+draw has happen:♦ 2
+♦ 2 moved from wastepile to playing#3
+
+STCK	6 WAST: 7 TC: ♥ 5 |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+STCK	6 WAST: 7 TC: ♥ 5 |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+draw has happen:♠ 5
+STCK	5 WAST: 8 TC: ♠ 5 |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+draw has happen:♦ Q
+♦ Q moved from wastepile to playing#1
+
+STCK	4 WAST: 8 TC: ♠ 5 |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+o1:♦ Q	o2:♠ Q		o4:♦ 7		o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+♦ Q moved from playing#1 to playing#5
+
+STCK	4 WAST: 8 TC: ♠ 5 |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+STCK	4 WAST: 8 TC: ♠ 5 |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+draw has happen:♦ K
+STCK	3 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+draw has happen:♠ 6
+♠ 6 moved from wastepile to playing#4
+
+STCK	2 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+STCK	2 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q		o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+draw has happen:♣ 9
+♣ 9 moved from wastepile to playing#3
+
+STCK	1 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+STCK	1 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 0	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -17
+
+draw has happen:♣ A
+♣ A moved from wastepile to playing#2
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 1	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q	o6:♣ 2	o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -12
+
+♣ 2 moved from playing#6 to playing#2
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 2	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q		o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+						o7:♣ 3	
+							
+SCORE: -7
+
+♣ 3 moved from playing#7 to playing#2
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 3	 ♣: 3	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q		o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10					o7:♥ 4	
+							
+SCORE: -2
+
+♥ 4 moved from playing#7 to playing#1
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 3	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:5 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♦ 3	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q		o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10						
+							
+SCORE: 3
+
+♦ 3 moved from playing#6 to playing#3
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 3	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♣ 4	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q		o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10						
+							
+SCORE: 8
+
+♣ 4 moved from playing#6 to playing#2
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 4	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:3 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♥ 7	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q		o7:♦ 6	
+	o2:♥ J		o4:♠ 6			o7:♣ 5	
+	o2:♠ 10						
+							
+SCORE: 13
+
+♠ 6 moved from playing#4 to playing#6
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 4	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:3 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♥ 7	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q	o6:♠ 6	o7:♦ 6	
+	o2:♥ J					o7:♣ 5	
+	o2:♠ 10						
+							
+SCORE: 13
+
+♣ 5 moved from playing#7 to playing#2
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 5	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:3 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♥ 7	o7:♣ 7	
+	o2:♠ Q	o3:♣ 9	o4:♦ 7	o5:♦ Q	o6:♠ 6	o7:♦ 6	
+	o2:♥ J						
+	o2:♠ 10						
+							
+SCORE: 18
+
+♦ Q moved from playing#5 to playing#1
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 5	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:3 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♥ 7	o7:♣ 7	
+o1:♦ Q	o2:♠ Q	o3:♣ 9	o4:♦ 7		o6:♠ 6	o7:♦ 6	
+	o2:♥ J						
+	o2:♠ 10						
+							
+SCORE: 18
+
+STCK	0 WAST: 9 TC: ♦ K |	 ♥: 4	 ♣: 5	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:3 	d7:6
+o1:♠ K	o2:♥ K	o3:♥ 10	o4:♠ 8	o5:♣ K	o6:♥ 7	o7:♣ 7	
+o1:♦ Q	o2:♠ Q	o3:♣ 9	o4:♦ 7		o6:♠ 6	o7:♦ 6	
+	o2:♥ J						
+	o2:♠ 10						
+							
+SCORE: 18
+
+draw has happen:GAME OVER
+initial setting:
+playingdeck: most right is card on the top
+
+playingdeck1:♠ 10	<==card on the top
+playingdeck2:♦ 2	♥ Q	<==card on the top
+playingdeck3:♣ 2	♣ 10	♦ 7	<==card on the top
+playingdeck4:♠ 6	♥ 3	♠ J	♥ 6	<==card on the top
+playingdeck5:♣ K	♦ 8	♠ 9	♦ K	♠ 4	<==card on the top
+playingdeck6:♦ 6	♦ J	♦ A	♠ A	♠ 2	♣ 5	<==card on the top
+playingdeck7:♥ 8	♠ 8	♥ 9	♥ 4	♠ 7	♦ Q	♣ 3	<==card on the top
+-----------cards in the stock-----------------
+♣ 6	♣ 9	♥ 2	♥ K	♣ 8	♣ Q	♣ A	
+♦ 5	♥ 7	♣ 7	♥ 5	♦ 9	♣ 4	♠ Q	
+♦ 10	♥ A	♥ J	♣ J	♥ 10	♠ 5	♠ K	
+♠ 3	♦ 3	♦ 4	<=card on the bottom
+
+STCK	23 WAST: 1 TC: ♣ 6 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:5 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♣ 5	o7:♣ 3	
+							
+SCORE: -52
+
+♣ 6 moved from wastepile to playing#3
+
+STCK	23 WAST: 0 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:5 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♣ 5	o7:♣ 3	
+		o3:♣ 6					
+							
+SCORE: -52
+
+♣ 5 moved from playing#6 to playing#4
+
+STCK	23 WAST: 0 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5				
+							
+SCORE: -52
+
+STCK	23 WAST: 0 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5				
+							
+SCORE: -52
+
+draw has happen:♣ 9
+STCK	22 WAST: 1 TC: ♣ 9 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5				
+							
+SCORE: -52
+
+draw has happen:♥ 2
+♥ 2 moved from wastepile to playing#7
+
+STCK	21 WAST: 1 TC: ♣ 9 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -52
+
+STCK	21 WAST: 1 TC: ♣ 9 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -52
+
+draw has happen:♥ K
+STCK	20 WAST: 2 TC: ♥ K |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -52
+
+draw has happen:♣ 8
+STCK	19 WAST: 3 TC: ♣ 8 |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -52
+
+draw has happen:♣ Q
+STCK	18 WAST: 4 TC: ♣ Q |	 ♥: 0	 ♣: 0	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -52
+
+draw has happen:♣ A
+♣ A moved from wastepile to playing#2
+
+STCK	17 WAST: 4 TC: ♣ Q |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -47
+
+STCK	17 WAST: 4 TC: ♣ Q |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+							
+SCORE: -47
+
+draw has happen:♦ 5
+♦ 5 moved from wastepile to playing#3
+
+STCK	16 WAST: 4 TC: ♣ Q |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:4 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 4	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+		o3:♦ 5					
+							
+SCORE: -47
+
+♠ 4 moved from playing#5 to playing#3
+
+STCK	16 WAST: 4 TC: ♣ Q |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5			o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+♣ Q moved from wastepile to playing#5
+
+STCK	16 WAST: 3 TC: ♣ 8 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+STCK	16 WAST: 3 TC: ♣ 8 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♥ 7
+STCK	15 WAST: 4 TC: ♥ 7 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♣ 7
+STCK	14 WAST: 5 TC: ♣ 7 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♥ 5
+STCK	13 WAST: 6 TC: ♥ 5 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♦ 9
+♦ 9 moved from wastepile to playing#1
+
+STCK	12 WAST: 6 TC: ♥ 5 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+STCK	12 WAST: 6 TC: ♥ 5 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♣ 4
+STCK	11 WAST: 7 TC: ♣ 4 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♠ Q
+STCK	10 WAST: 8 TC: ♠ Q |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♦ 10
+STCK	9 WAST: 9 TC: ♦ 10 |	 ♥: 0	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -47
+
+draw has happen:♥ A
+♥ A moved from wastepile to playing#1
+
+STCK	8 WAST: 9 TC: ♦ 10 |	 ♥: 1	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q		o7:♥ 2	
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -42
+
+♥ 2 moved from playing#7 to playing#1
+
+STCK	8 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q			
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -37
+
+STCK	8 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q			
+		o3:♦ 5					
+		o3:♠ 4					
+							
+SCORE: -37
+
+draw has happen:♥ J
+♥ J moved from wastepile to playing#5
+
+STCK	7 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+o1:♠ 10	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+o1:♦ 9		o3:♣ 6	o4:♣ 5	o5:♣ Q			
+		o3:♦ 5		o5:♥ J			
+		o3:♠ 4					
+							
+SCORE: -37
+
+♠ 10 moved from playing#1 to playing#5
+
+STCK	7 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:3 	d6:4 	d7:6
+	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ K	o6:♠ 2	o7:♣ 3	
+		o3:♣ 6	o4:♣ 5	o5:♣ Q			
+		o3:♦ 5		o5:♥ J			
+		o3:♠ 4		o5:♠ 10			
+				o5:♦ 9			
+							
+SCORE: -37
+
+♦ K moved from playing#5 to playing#1
+
+STCK	7 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:2 	d6:4 	d7:6
+o1:♦ K	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 9	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5				
+o1:♥ J		o3:♦ 5					
+o1:♠ 10		o3:♠ 4					
+o1:♦ 9							
+							
+SCORE: -37
+
+STCK	7 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:2 	d6:4 	d7:6
+o1:♦ K	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 9	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5				
+o1:♥ J		o3:♦ 5					
+o1:♠ 10		o3:♠ 4					
+o1:♦ 9							
+							
+SCORE: -37
+
+draw has happen:♣ J
+♣ J moved from wastepile to playing#2
+
+STCK	6 WAST: 9 TC: ♦ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:2 	d6:4 	d7:6
+o1:♦ K	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 9	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♣ J	o3:♣ 6	o4:♣ 5				
+o1:♥ J		o3:♦ 5					
+o1:♠ 10		o3:♠ 4					
+o1:♦ 9							
+							
+SCORE: -37
+
+♦ 10 moved from wastepile to playing#2
+
+STCK	6 WAST: 8 TC: ♠ Q |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:2 	d6:4 	d7:6
+o1:♦ K	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♠ 9	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♣ J	o3:♣ 6	o4:♣ 5				
+o1:♥ J	o2:♦ 10	o3:♦ 5					
+o1:♠ 10		o3:♠ 4					
+o1:♦ 9							
+							
+SCORE: -37
+
+♠ 9 moved from playing#5 to playing#2
+
+STCK	6 WAST: 8 TC: ♠ Q |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:1 	d6:4 	d7:6
+o1:♦ K	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♦ 8	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♣ J	o3:♣ 6	o4:♣ 5				
+o1:♥ J	o2:♦ 10	o3:♦ 5					
+o1:♠ 10	o2:♠ 9	o3:♠ 4					
+o1:♦ 9							
+							
+SCORE: -37
+
+♦ 8 moved from playing#5 to playing#2
+
+STCK	6 WAST: 8 TC: ♠ Q |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:1 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♥ Q	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♣ J	o3:♣ 6	o4:♣ 5				
+o1:♥ J	o2:♦ 10	o3:♦ 5					
+o1:♠ 10	o2:♠ 9	o3:♠ 4					
+o1:♦ 9	o2:♦ 8						
+							
+SCORE: -37
+
+♥ Q moved from playing#2 to playing#5
+
+STCK	6 WAST: 8 TC: ♠ Q |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♦ 2	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q			
+o1:♥ J		o3:♦ 5		o5:♣ J			
+o1:♠ 10		o3:♠ 4		o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -37
+
+♦ 2 moved from playing#2 to playing#7
+
+STCK	6 WAST: 8 TC: ♠ Q |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K		o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q		o7:♦ 2	
+o1:♥ J		o3:♦ 5		o5:♣ J			
+o1:♠ 10		o3:♠ 4		o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -37
+
+STCK	6 WAST: 8 TC: ♠ Q |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K		o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q		o7:♦ 2	
+o1:♥ J		o3:♦ 5		o5:♣ J			
+o1:♠ 10		o3:♠ 4		o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -37
+
+draw has happen:♥ 10
+STCK	5 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K		o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q		o7:♦ 2	
+o1:♥ J		o3:♦ 5		o5:♣ J			
+o1:♠ 10		o3:♠ 4		o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -37
+
+draw has happen:♠ 5
+STCK	4 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K		o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q		o7:♦ 2	
+o1:♥ J		o3:♦ 5		o5:♣ J			
+o1:♠ 10		o3:♠ 4		o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -37
+
+draw has happen:♠ K
+♠ K moved from wastepile to playing#2
+
+STCK	3 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q		o7:♦ 2	
+o1:♥ J		o3:♦ 5		o5:♣ J			
+o1:♠ 10		o3:♠ 4		o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -37
+
+♥ Q moved from playing#5 to playing#2
+
+STCK	3 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -37
+
+STCK	3 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -37
+
+draw has happen:♠ 3
+STCK	2 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -37
+
+draw has happen:♦ 3
+♦ 3 moved from wastepile to playing#3
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:4 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ 2	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8						
+							
+SCORE: -37
+
+♠ 2 moved from playing#6 to playing#3
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:0 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:3 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♠ A	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8	o3:♠ 2					
+							
+SCORE: -37
+
+♠ A moved from playing#6 to playing#4
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:2 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ A	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8	o3:♠ 2					
+							
+SCORE: -32
+
+♦ A moved from playing#6 to playing#3
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 0	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8	o3:♠ 2					
+		o3:♦ A					
+							
+SCORE: -32
+
+♦ A moved from playing#3 to playing#3
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 1	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5			o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8	o3:♠ 2					
+							
+SCORE: -27
+
+♠ 10 moved from playing#1 to playing#6
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 1	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10	o7:♦ 2	
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10	o3:♠ 4					
+	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8	o3:♠ 2					
+							
+SCORE: -27
+
+♦ 2 moved from playing#7 to playing#3
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 2	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10		
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10	o3:♠ 4					
+	o2:♠ 9	o3:♦ 3					
+	o2:♦ 8	o3:♠ 2					
+							
+SCORE: -22
+
+♥ Q moved from playing#2 to playing#5
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 2	 ♠:1 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q	o6:♠ 10		
+o1:♥ J		o3:♦ 5		o5:♣ J	o6:♦ 9		
+		o3:♠ 4		o5:♦ 10			
+		o3:♦ 3		o5:♠ 9			
+		o3:♠ 2		o5:♦ 8			
+							
+SCORE: -22
+
+♠ 2 moved from playing#3 to playing#4
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 2	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q	o6:♠ 10		
+o1:♥ J		o3:♦ 5		o5:♣ J	o6:♦ 9		
+		o3:♠ 4		o5:♦ 10			
+		o3:♦ 3		o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -17
+
+♦ 3 moved from playing#3 to playing#3
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q	o6:♠ 10		
+o1:♥ J		o3:♦ 5		o5:♣ J	o6:♦ 9		
+		o3:♠ 4		o5:♦ 10			
+				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: -12
+
+♥ Q moved from playing#5 to playing#2
+
+STCK	1 WAST: 11 TC: ♠ 3 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:2 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10		
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10	o3:♠ 4					
+	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -12
+
+♠ 3 moved from wastepile to playing#4
+
+STCK	1 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:3 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10		
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10	o3:♠ 4					
+	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -7
+
+♠ 10 moved from playing#6 to playing#1
+
+STCK	1 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:3 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5				
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10	o3:♠ 4					
+o1:♦ 9	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -7
+
+♠ 4 moved from playing#3 to playing#4
+
+STCK	1 WAST: 10 TC: ♠ 5 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:4 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5				
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10						
+o1:♦ 9	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: -2
+
+♠ 5 moved from wastepile to playing#4
+
+STCK	1 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5				
+o1:♥ J	o2:♣ J	o3:♦ 5					
+o1:♠ 10	o2:♦ 10						
+o1:♦ 9	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: 3
+
+♠ 10 moved from playing#1 to playing#6
+
+STCK	1 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10		
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10						
+	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: 3
+
+STCK	1 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 3	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10		
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10						
+	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: 3
+
+draw has happen:♦ 4
+♦ 4 moved from wastepile to playing#3
+
+STCK	0 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 4	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q	o2:♥ Q	o3:♣ 6	o4:♣ 5		o6:♠ 10		
+o1:♥ J	o2:♣ J	o3:♦ 5			o6:♦ 9		
+	o2:♦ 10						
+	o2:♠ 9						
+	o2:♦ 8						
+							
+SCORE: 8
+
+♥ Q moved from playing#2 to playing#5
+
+STCK	0 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 4	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q	o6:♠ 10		
+o1:♥ J		o3:♦ 5		o5:♣ J	o6:♦ 9		
+				o5:♦ 10			
+				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: 8
+
+♦ 5 moved from playing#3 to playing#3
+
+STCK	0 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 5	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q	o6:♠ 10		
+o1:♥ J				o5:♣ J	o6:♦ 9		
+				o5:♦ 10			
+				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: 13
+
+♠ 10 moved from playing#6 to playing#1
+
+STCK	0 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 5	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q			
+o1:♥ J				o5:♣ J			
+o1:♠ 10				o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: 13
+
+STCK	0 WAST: 9 TC: ♥ 10 |	 ♥: 2	 ♣: 1	 ♦: 5	 ♠:5 
+d1:0 	d2:0 	d3:2 	d4:3 	d5:0 	d6:1 	d7:6
+o1:♦ K	o2:♠ K	o3:♦ 7	o4:♥ 6	o5:♣ K	o6:♦ J	o7:♣ 3	
+o1:♣ Q		o3:♣ 6	o4:♣ 5	o5:♥ Q			
+o1:♥ J				o5:♣ J			
+o1:♠ 10				o5:♦ 10			
+o1:♦ 9				o5:♠ 9			
+				o5:♦ 8			
+							
+SCORE: 13
+
+draw has happen:GAME OVER
